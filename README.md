@@ -1,1 +1,1 @@
-# Credit-Card-Fraud-Detection-Project
+# Projects
